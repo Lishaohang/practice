@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ee1aef5-4c39-423f-806c-8e5df730fac3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lsh/leetcode/Question879.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lsh/leetcode/Q1108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lsh/leetcode/Q1156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lsh/leetcode/Q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lsh/leetcode/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +36,40 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="Q1108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsh.leetcode.Q1108" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsh.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsh.leetcode.Test1" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsh.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Q1108" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -44,11 +80,70 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675251285609</updated>
-      <workItem from="1675251287729" duration="1910000" />
+      <workItem from="1675251287729" duration="2601000" />
+      <workItem from="1677584580367" duration="1946000" />
+      <workItem from="1678022947775" duration="254000" />
+      <workItem from="1678185216000" duration="3127000" />
+      <workItem from="1678276735767" duration="975000" />
+      <workItem from="1678606837294" duration="1198000" />
     </task>
+    <task id="LOCAL-00001" summary="second">
+      <created>1675259373896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675259373896</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1675259372924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1675259372924" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1678277790513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1678277790513" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1678277790512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1678277790512" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1678277790512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1678277790512" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1678277790512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1678277790512" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1678277790731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1678277790731" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1678277790731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1678277790731" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1678277790731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1678277790731" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1678277790731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1678277790731" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1675259389314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1675259389314" />
   </component>
 </project>
